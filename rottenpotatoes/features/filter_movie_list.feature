@@ -48,7 +48,7 @@ Scenario: restrict to movies with 'PG' or 'R' ratings
   | The Help                | PG-13  | 10-Aug-2011  |
   | Chocolat                | PG-13  | 5-Jan-2001   |
   | 2001: A Space Odyssey   | G      | 6-Apr-1968   |
-    | Chicken Run             | G      | 21-Jun-2000  |
+  | Chicken Run             | G      | 21-Jun-2000  |
 
 Scenario: all ratings selected
   # see assignment
